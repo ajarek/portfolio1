@@ -14,7 +14,7 @@ body {
 
 .container {
     
-    background: url("/img/ziemia.png") center;
+    background: url("../img/ziemia.png") center;
 height: 100vh;
    background-repeat: no-repeat;
   background-size: 100vh;
